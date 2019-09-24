@@ -11,7 +11,21 @@ namespace Alg1.Practica.Practicum4
 
         public void InsertHead(NAW naw)
         {
-            throw new System.NotImplementedException();
+            DoubleLink link = new DoubleLink();
+            link.Naw = naw;
+
+            if (First == null)
+            {
+                First = link;
+                Last = link;
+            }
+            else
+            {
+                var temp = First;
+                First = link;
+                First.Next = temp;
+                temp.Previous = First;
+            }
         }
 
         public NAW ItemAtIndex(int index)
