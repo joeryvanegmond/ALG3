@@ -1,0 +1,2 @@
+C:\Users\Vincent\source\repos\out\assignments\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\out\assignments\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.csproj.CoreCompileInputs.cache
