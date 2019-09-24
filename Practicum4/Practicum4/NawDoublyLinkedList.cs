@@ -61,12 +61,7 @@ namespace Alg1.Practica.Practicum4
                 link.Next = Last;
                 First.Next = temp;
                 Last.Previous = link;
-
-
             }
-
-
-
             return link;
         }
 
