@@ -35,7 +35,39 @@ namespace Alg1.Practica.Practicum4
 
         public DoubleLink SwapLinkWithNext(DoubleLink link)
         {
-            throw new System.NotImplementedException();
+
+            if (link == First)
+            {
+                var temp = link.Next;
+                First = temp;
+                First.Next = link;
+                link.Previous = First;
+                link.Next = temp.Next;
+            }
+            else if (link.Next == Last)
+            {
+                var temp = Last;
+                Last = link;
+                Last.Previous = temp;
+                Last.Next = null;
+                temp.Next = Last;
+            }
+            else
+            {
+                var temp = link.Next;
+                temp.Next = link;
+                temp.Previous = First;
+                link.Previous = temp;
+                link.Next = Last;
+                First.Next = temp;
+                Last.Previous = link;
+
+
+            }
+
+
+
+            return link;
         }
 
         public void BubbleSort()
