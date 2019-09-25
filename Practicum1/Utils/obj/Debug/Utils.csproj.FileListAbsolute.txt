@@ -10,3 +10,8 @@ C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Utils\obj\Debug\Ut
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Utils\obj\Debug\Utils.dll
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Utils\obj\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Utils\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Utils\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Utils\obj\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Utils\obj\Debug\Utils.pdb

@@ -24,3 +24,15 @@ C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2\obj\x86\Debu
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2\obj\x86\Debug\Practicum2.csproj.CopyComplete
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2\obj\x86\Debug\Practicum2.exe
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2\obj\x86\Debug\Practicum2.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\Practicum2.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\Practicum2.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\Practicum1.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\obj\x86\Debug\Practicum2.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\obj\x86\Debug\Practicum2.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\obj\x86\Debug\Practicum2.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2\obj\x86\Debug\Practicum2.pdb

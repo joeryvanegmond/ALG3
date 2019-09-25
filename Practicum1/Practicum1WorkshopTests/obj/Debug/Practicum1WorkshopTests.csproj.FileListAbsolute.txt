@@ -29,3 +29,18 @@ C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1Workshop
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csproj.CopyComplete
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.dll
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\Practicum1WorkshopTests.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\Practicum1WorkshopTests.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\Practicum1.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\TestBase.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\TestBase.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\Practicum1.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.pdb

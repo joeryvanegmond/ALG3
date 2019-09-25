@@ -32,3 +32,19 @@ C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csproj.CopyComplete
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.dll
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2WorkshopTests.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2WorkshopTests.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum1.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\TestBase.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\TestBase.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.pdb

@@ -54,6 +54,7 @@ namespace Alg1.Practica.Practicum4
         private void AddOperation(Operation operation, NAW naw)
         {
             throw new System.NotImplementedException();
+
         }
 
         private void ApplyOperation(UndoLink link)

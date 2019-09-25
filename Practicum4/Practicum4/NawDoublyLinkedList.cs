@@ -35,35 +35,116 @@ namespace Alg1.Practica.Practicum4
 
         public DoubleLink SwapLinkWithNext(DoubleLink link)
         {
+            if (link != Last)
+            {
+                var secondLink = link.Next;
+                if (link == First)
+                {
+                    First = secondLink;
+                    secondLink.Previous = null;
+                }
+                else
+                {
+                    link.Next = secondLink.Next;
+                    link.Previous = secondLink;
+                }
 
-            if (link == First)
-            {
-                var temp = link.Next;
-                First = temp;
-                First.Next = link;
-                link.Previous = First;
-                link.Next = temp.Next;
+                if (secondLink == Last)
+                {
+                    Last = link;
+                    link.Next = null;
+                }
+                else
+                {
+                    secondLink.Next = link;
+                    secondLink.Previous = link.Previous;
+                }
+                return secondLink;
             }
-            else if (link.Next == Last)
-            {
-                var temp = Last;
-                Last = link;
-                Last.Previous = temp;
-                Last.Next = null;
-                temp.Next = Last;
-            }
-            else
-            {
-                var temp = link.Next;
-                temp.Next = link;
-                temp.Previous = First;
-                link.Previous = temp;
-                link.Next = Last;
-                First.Next = temp;
-                Last.Previous = link;
-            }
-            return link;
+            return null;
         }
+
+
+        //public DoubleLink SwapLinkWithNext(DoubleLink link)
+        //{
+        //    if (link != Last)
+        //    {
+        //        DoubleLink secondLink = link.Next;
+
+        //        if (First == link)
+        //        {
+        //            First.Next = link;
+        //            First.Previous = null;
+        //        }
+        //        else
+        //        {
+        //            link.Previous = secondLink;
+        //            secondLink.Next = link;
+        //        }
+        //        if (secondLink == Last)
+        //        {
+
+        //        }
+
+        //        return link;
+        //    }
+
+        //    return null;
+
+        //}
+
+        //public DoubleLink SwapLinkWithNext(DoubleLink link)
+        //{
+        //    // swap first with second
+        //    if (link == First)
+        //    {
+        //        var eerste = link.Next;
+        //        var tweede = link;
+
+        //        First = eerste;
+        //        eerste.Next = tweede;
+        //        tweede.Previous = eerste;
+        //        tweede.Next = link.Next.Next;
+        //        eerste.Previous = null;
+        //    }
+        //    // swap second-last with last
+        //    else if (link.Next == Last)
+        //    {
+        //        var laatste = Last;
+        //        var eenNaLaatste = link;
+
+        //        Last.Previous = laatste;
+        //        laatste.Next = eenNaLaatste;
+        //        laatste.Previous = link.Previous;
+        //        link.Previous.Next = laatste;
+        //        Last = eenNaLaatste;
+        //        eenNaLaatste.Previous = laatste;
+        //        Last.Next = null;
+        //    }
+        //    // swap second with third
+        //    else if (link == First.Next)
+        //    {
+        //        var derde = link.Next;
+        //        var tweede = link;
+
+        //        First.Next = derde;
+        //        derde.Previous = First;
+        //        derde.Next = tweede;
+        //        tweede.Previous = derde;
+        //        tweede.Next = Last;
+        //        Last.Previous = tweede;
+        //    }
+
+        //    //var eersteSchakel = link.Next;
+        //    //var tweedeSchakel = link;
+
+        //    //tweedeSchakel.Previous = eersteSchakel;
+        //    //tweedeSchakel.Next = link.Next.Next;
+        //    //eersteSchakel.Next = tweedeSchakel;
+        //    //eersteSchakel.Previous = link.Previous;
+
+        //    return link;
+        //}
 
         public void BubbleSort()
         {

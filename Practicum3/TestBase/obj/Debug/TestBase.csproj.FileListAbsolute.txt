@@ -10,3 +10,14 @@ C:\Users\Vincent\source\repos\out\assignments\Practicum3\TestBase\obj\Debug\Test
 C:\Users\Vincent\source\repos\out\assignments\Practicum3\TestBase\obj\Debug\TestBase.csproj.CopyComplete
 C:\Users\Vincent\source\repos\out\assignments\Practicum3\TestBase\obj\Debug\TestBase.dll
 C:\Users\Vincent\source\repos\out\assignments\Practicum3\TestBase\obj\Debug\TestBase.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\TestBase.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\TestBase.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\obj\Debug\TestBase.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\obj\Debug\TestBase.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\obj\Debug\TestBase.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum3\TestBase\obj\Debug\TestBase.pdb
