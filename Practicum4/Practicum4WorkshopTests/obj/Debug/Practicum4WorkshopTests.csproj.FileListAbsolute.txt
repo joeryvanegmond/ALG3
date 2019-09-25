@@ -16,3 +16,20 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum4\Practicum4WorkshopTests\obj\D
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.csproj.CopyComplete
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.dll
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Practicum4WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Practicum4WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Practicum1.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Practicum4.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\TestBase.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\TestBase.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\Practicum4.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum4\Practicum4WorkshopTests\obj\Debug\Practicum4WorkshopTests.pdb

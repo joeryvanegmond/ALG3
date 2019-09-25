@@ -1,0 +1,18 @@
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\bin\Debug\Practicum1.exe
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\bin\Debug\Practicum1.pdb
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\bin\Debug\Utils.dll
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\bin\Debug\Utils.pdb
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\obj\x86\Debug\Practicum1.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\obj\x86\Debug\Practicum1.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\obj\x86\Debug\Practicum1.csproj.CopyComplete
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\obj\x86\Debug\Practicum1.exe
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1\obj\x86\Debug\Practicum1.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\bin\Debug\Practicum1.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\bin\Debug\Practicum1.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\obj\x86\Debug\Practicum1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\obj\x86\Debug\Practicum1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\obj\x86\Debug\Practicum1.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\obj\x86\Debug\Practicum1.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1\obj\x86\Debug\Practicum1.pdb
