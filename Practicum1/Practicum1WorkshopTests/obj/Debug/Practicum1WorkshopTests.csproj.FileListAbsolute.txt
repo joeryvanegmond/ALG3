@@ -1,0 +1,31 @@
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\Practicum1WorkshopTests.dll
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\Practicum1WorkshopTests.pdb
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\nunit.framework.dll
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\Practicum1.exe
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\TestBase.dll
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\Utils.dll
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\TestBase.pdb
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\Utils.pdb
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\Practicum1.pdb
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\bin\Debug\nunit.framework.xml
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csproj.CopyComplete
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.dll
+C:\Users\Vincent\source\repos\alg1practica\out\assignments\P1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\Practicum1WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\Practicum1WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\Practicum1.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\TestBase.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\TestBase.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\Practicum1.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Workshop1\Practicum1WorkshopTests\obj\Debug\Practicum1WorkshopTests.pdb

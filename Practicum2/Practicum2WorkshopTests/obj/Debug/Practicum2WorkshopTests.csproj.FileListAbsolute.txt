@@ -1,0 +1,34 @@
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csprojAssemblyReference.cache
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2WorkshopTests.dll
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2WorkshopTests.pdb
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.dll
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum1.exe
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2.exe
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\TestBase.dll
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Utils.dll
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\TestBase.pdb
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Utils.pdb
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2.pdb
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.pdb
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.xml
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csproj.CopyComplete
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.dll
+C:\Users\Vincent\source\repos\out\assignments\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum1.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\TestBase.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\TestBase.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\Practicum2.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\Practicum2\Practicum2WorkshopTests\obj\Debug\Practicum2WorkshopTests.pdb
