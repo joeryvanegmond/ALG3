@@ -53,7 +53,19 @@ namespace Alg1.Practica.Practicum4
 
         private void AddOperation(Operation operation, NAW naw)
         {
-            throw new System.NotImplementedException();
+            //throw new System.NotImplementedException();
+            UndoLink link = new UndoLink();
+            link.Operation = operation;
+            link.Naw = naw;
+
+            if (First == null)
+            {
+                First = link;
+            }
+            else
+            {
+                
+            }
 
         }
 

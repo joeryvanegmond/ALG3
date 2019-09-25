@@ -33,36 +33,51 @@ namespace Alg1.Practica.Practicum4
             throw new System.NotImplementedException();
         }
 
-        public DoubleLink SwapLinkWithNext(DoubleLink link)
-        {
-            if (link != Last)
-            {
-                var secondLink = link.Next;
-                if (link == First)
-                {
-                    First = secondLink;
-                    secondLink.Previous = null;
-                }
-                else
-                {
-                    link.Next = secondLink.Next;
-                    link.Previous = secondLink;
-                }
+        //public DoubleLink SwapLinkWithNext(DoubleLink link)
+        //{
+        //    if (link != Last)
+        //    {
+        //        var secondLink = link.Next;
+        //        var oldLink = link;
+        //        var oldSecondLink = link.Next;
 
-                if (secondLink == Last)
-                {
-                    Last = link;
-                    link.Next = null;
-                }
-                else
-                {
-                    secondLink.Next = link;
-                    secondLink.Previous = link.Previous;
-                }
-                return secondLink;
-            }
-            return null;
-        }
+        //        if (link == First)
+        //        {
+        //            First = secondLink;
+        //            First.Next = link;
+        //            First.Previous = null;
+        //        }
+
+        //        if (secondLink == Last)
+        //        {
+        //            Last = link;
+        //            Last.Previous = secondLink;
+
+        //        }
+
+        //        secondLink = link.Previous;
+        //        secondLink.Next = link;
+        //        secondLink.Previous = oldLink.Previous;
+        //        link.Next = oldSecondLink.Next;
+        //        link.Previous = secondLink;
+
+        //        //link.Previous.Next = link;
+        //        //secondLink.Previous = link;
+
+
+
+
+
+
+        //        //link.Next = secondLink.Next;
+        //        //link.Previous = secondLink;
+        //        //secondLink.Next = link;
+        //        //secondLink.Previous = link.Previous;
+
+        //        return secondLink;
+        //    }
+        //    return null;
+        //}
 
 
         //public DoubleLink SwapLinkWithNext(DoubleLink link)
@@ -93,58 +108,49 @@ namespace Alg1.Practica.Practicum4
 
         //}
 
-        //public DoubleLink SwapLinkWithNext(DoubleLink link)
-        //{
-        //    // swap first with second
-        //    if (link == First)
-        //    {
-        //        var eerste = link.Next;
-        //        var tweede = link;
+        public DoubleLink SwapLinkWithNext(DoubleLink link)
+        {
+            // swap first with second
+            if (link == First)
+            {
+                var eerste = link.Next;
+                var tweede = link;
 
-        //        First = eerste;
-        //        eerste.Next = tweede;
-        //        tweede.Previous = eerste;
-        //        tweede.Next = link.Next.Next;
-        //        eerste.Previous = null;
-        //    }
-        //    // swap second-last with last
-        //    else if (link.Next == Last)
-        //    {
-        //        var laatste = Last;
-        //        var eenNaLaatste = link;
+                First = eerste;
+                eerste.Next = tweede;
+                tweede.Previous = eerste;
+                tweede.Next = link.Next.Next;
+                eerste.Previous = null;
+            }
+            // swap second-last with last
+            else if (link.Next == Last)
+            {
+                var laatste = Last;
+                var eenNaLaatste = link;
 
-        //        Last.Previous = laatste;
-        //        laatste.Next = eenNaLaatste;
-        //        laatste.Previous = link.Previous;
-        //        link.Previous.Next = laatste;
-        //        Last = eenNaLaatste;
-        //        eenNaLaatste.Previous = laatste;
-        //        Last.Next = null;
-        //    }
-        //    // swap second with third
-        //    else if (link == First.Next)
-        //    {
-        //        var derde = link.Next;
-        //        var tweede = link;
+                Last.Previous = laatste;
+                laatste.Next = eenNaLaatste;
+                laatste.Previous = link.Previous;
+                link.Previous.Next = laatste;
+                Last = eenNaLaatste;
+                eenNaLaatste.Previous = laatste;
+                Last.Next = null;
+            }
+            // swap second with third
+            else if (link == First.Next)
+            {
+                var derde = link.Next;
+                var tweede = link;
 
-        //        First.Next = derde;
-        //        derde.Previous = First;
-        //        derde.Next = tweede;
-        //        tweede.Previous = derde;
-        //        tweede.Next = Last;
-        //        Last.Previous = tweede;
-        //    }
-
-        //    //var eersteSchakel = link.Next;
-        //    //var tweedeSchakel = link;
-
-        //    //tweedeSchakel.Previous = eersteSchakel;
-        //    //tweedeSchakel.Next = link.Next.Next;
-        //    //eersteSchakel.Next = tweedeSchakel;
-        //    //eersteSchakel.Previous = link.Previous;
-
-        //    return link;
-        //}
+                First.Next = derde;
+                derde.Previous = First;
+                derde.Next = tweede;
+                tweede.Previous = derde;
+                tweede.Next = Last;
+                Last.Previous = tweede;
+            }
+            return link.Next;
+        }
 
         public void BubbleSort()
         {
