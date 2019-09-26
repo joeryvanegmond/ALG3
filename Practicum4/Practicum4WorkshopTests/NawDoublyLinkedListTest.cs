@@ -158,6 +158,10 @@ namespace Alg1.Practica.Practicum4.Test.Workshop
             DoubleLink second = first.Next;
             DoubleLink third = second.Next;
             DoubleLink fourth = third.Next;
+            first.Naw.Naam = "1";
+            second.Naw.Naam = "2";
+            third.Naw.Naam = "3";
+            fourth.Naw.Naam = "4";
 
             // Act
             ExeTimed(() => lijst.SwapLinkWithNext(second));

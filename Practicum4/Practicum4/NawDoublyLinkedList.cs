@@ -85,6 +85,7 @@ namespace Alg1.Practica.Practicum4
         //    if (link != Last)
         //    {
         //        DoubleLink secondLink = link.Next;
+        //        DoubleLink firstLink = link.Previous;
 
         //        if (First == link)
         //        {
@@ -93,15 +94,18 @@ namespace Alg1.Practica.Practicum4
         //        }
         //        else
         //        {
-        //            link.Previous = secondLink;
+        //            link.Next = secondLink.Next;
+        //            secondLink.Previous = link.Previous;
         //            secondLink.Next = link;
+        //            link.Previous = secondLink;
+        //            return secondLink;
         //        }
+
         //        if (secondLink == Last)
         //        {
 
         //        }
-
-        //        return link;
+        //        //return secondLink;
         //    }
 
         //    return null;
@@ -139,17 +143,20 @@ namespace Alg1.Practica.Practicum4
             // swap second with third
             else if (link == First.Next)
             {
-                var derde = link.Next;
-                var tweede = link;
-
-                First.Next = derde;
-                derde.Previous = First;
-                derde.Next = tweede;
-                tweede.Previous = derde;
-                tweede.Next = Last;
-                Last.Previous = tweede;
+                var secondLink = link.Next;
+                //var tweede = link;
+                link.Next = secondLink.Next;
+                secondLink.Previous = link.Previous;
+                secondLink.Next = link;
+                link.Previous = secondLink;
+                //First.Next = derde;
+                //derde.Previous = First;
+                //derde.Next = tweede;
+                //tweede.Previous = derde;
+                //tweede.Next = Last;
+                //Last.Previous = tweede;
             }
-            return link.Next;
+            return link.Previous;
         }
 
         public void BubbleSort()
