@@ -33,131 +33,132 @@ namespace Alg1.Practica.Practicum4
             throw new System.NotImplementedException();
         }
 
-        //public DoubleLink SwapLinkWithNext(DoubleLink link)
-        //{
-        //    if (link != Last)
-        //    {
-        //        var secondLink = link.Next;
-        //        var oldLink = link;
-        //        var oldSecondLink = link.Next;
-
-        //        if (link == First)
-        //        {
-        //            First = secondLink;
-        //            First.Next = link;
-        //            First.Previous = null;
-        //        }
-
-        //        if (secondLink == Last)
-        //        {
-        //            Last = link;
-        //            Last.Previous = secondLink;
-
-        //        }
-
-        //        secondLink = link.Previous;
-        //        secondLink.Next = link;
-        //        secondLink.Previous = oldLink.Previous;
-        //        link.Next = oldSecondLink.Next;
-        //        link.Previous = secondLink;
-
-        //        //link.Previous.Next = link;
-        //        //secondLink.Previous = link;
-
-
-
-
-
-
-        //        //link.Next = secondLink.Next;
-        //        //link.Previous = secondLink;
-        //        //secondLink.Next = link;
-        //        //secondLink.Previous = link.Previous;
-
-        //        return secondLink;
-        //    }
-        //    return null;
-        //}
-
-
-        //public DoubleLink SwapLinkWithNext(DoubleLink link)
-        //{
-        //    if (link != Last)
-        //    {
-        //        DoubleLink secondLink = link.Next;
-        //        DoubleLink firstLink = link.Previous;
-
-        //        if (First == link)
-        //        {
-        //            First.Next = link;
-        //            First.Previous = null;
-        //        }
-        //        else
-        //        {
-        //            link.Next = secondLink.Next;
-        //            secondLink.Previous = link.Previous;
-        //            secondLink.Next = link;
-        //            link.Previous = secondLink;
-        //            return secondLink;
-        //        }
-
-        //        if (secondLink == Last)
-        //        {
-
-        //        }
-        //        //return secondLink;
-        //    }
-
-        //    return null;
-
-        //}
-
         public DoubleLink SwapLinkWithNext(DoubleLink link)
         {
-            // swap first with second
-            if (link == First)
-            {
-                var eerste = link.Next;
-                var tweede = link;
-
-                First = eerste;
-                eerste.Next = tweede;
-                tweede.Previous = eerste;
-                tweede.Next = link.Next.Next;
-                eerste.Previous = null;
-            }
-            // swap second-last with last
-            else if (link.Next == Last)
-            {
-                var laatste = Last;
-                var eenNaLaatste = link;
-
-                Last.Previous = laatste;
-                laatste.Next = eenNaLaatste;
-                laatste.Previous = link.Previous;
-                link.Previous.Next = laatste;
-                Last = eenNaLaatste;
-                eenNaLaatste.Previous = laatste;
-                Last.Next = null;
-            }
-            // swap second with third
-            else if (link == First.Next)
+            if (link != Last)
             {
                 var secondLink = link.Next;
-                //var tweede = link;
-                link.Next = secondLink.Next;
-                secondLink.Previous = link.Previous;
-                secondLink.Next = link;
-                link.Previous = secondLink;
-                //First.Next = derde;
-                //derde.Previous = First;
-                //derde.Next = tweede;
-                //tweede.Previous = derde;
-                //tweede.Next = Last;
-                //Last.Previous = tweede;
+
+                if (link == First)
+                {
+                    First = secondLink;
+                    secondLink.Next = link;
+                    link.Previous = secondLink;
+                    link.Next = link.Next.Next;
+                    secondLink.Previous = null;
+                }
+                else if (secondLink == Last)
+                {
+                    //var laatste = Last;
+                    //        var eenNaLaatste = link;
+
+                    //        Last.Previous = laatste;
+                    //        laatste.Next = eenNaLaatste;
+                    //        laatste.Previous = link.Previous;
+                    //        link.Previous.Next = laatste;
+                    //        Last = eenNaLaatste;
+                    //        eenNaLaatste.Previous = laatste;
+                    //        Last.Next = null;
+                }
+                return secondLink;
             }
-            return link.Previous;
+            return null;
         }
+        //    if (link == Last) return null;
+
+        //    DoubleLink nextLink = link.Next;
+        //    DoubleLink secondNextLink = nextLink.Next;
+        //    DoubleLink prevLink = link.Previous;
+
+        //    if (link == First)
+        //    {
+        //        // swappen met eerste link uit array
+        //        First = nextLink;
+
+        //        link.Next = secondNextLink;
+        //        link.Previous = nextLink;
+
+        //        nextLink.Next = link;
+        //        nextLink.Previous = null;
+
+        //        secondNextLink.Previous = link;
+        //    }
+        //    else if (nextLink == Last)
+        //    {
+        //        // swappen met laatste link uit array
+        //        Last = link;
+
+        //        link.Next = null;
+        //        link.Previous = nextLink;
+
+        //        nextLink.Next = link;
+        //        nextLink.Previous = prevLink;
+
+        //        prevLink.Next = nextLink;
+        //    }
+        //    else
+        //    {
+        //        secondNextLink.Previous = link;
+
+        //        link.Next = secondNextLink;
+        //        link.Previous = nextLink;
+
+        //        nextLink.Next = link;
+        //        nextLink.Previous = prevLink;
+
+        //        prevLink.Next = nextLink;
+        //    }
+
+        //    return nextLink;
+        //}
+
+        //public DoubleLink SwapLinkWithNext(DoubleLink link)
+        //{
+        //    // swap first with second
+        //    if (link == First)
+        //    {
+        //        var eerste = link.Next;
+        //        var tweede = link;
+
+        //        First = eerste;
+        //        eerste.Next = tweede;
+        //        tweede.Previous = eerste;
+        //        tweede.Next = link.Next.Next;
+        //        eerste.Previous = null;
+        //    }
+        //    // swap second-last with last
+        //    else if (link.Next == Last)
+        //    {
+        //        var laatste = Last;
+        //        var eenNaLaatste = link;
+
+        //        Last.Previous = laatste;
+        //        laatste.Next = eenNaLaatste;
+        //        laatste.Previous = link.Previous;
+        //        link.Previous.Next = laatste;
+        //        Last = eenNaLaatste;
+        //        eenNaLaatste.Previous = laatste;
+        //        Last.Next = null;
+        //    }
+        //    // swap second with third
+        //    else if (link == First.Next)
+        //    {
+        //        var secondLink = link.Next;
+        //        //var tweede = link;
+        //        link.Next = secondLink.Next;
+        //        secondLink.Previous = link.Previous;
+        //        secondLink.Next = link;
+        //        link.Previous = secondLink;
+        //        //First.Next = derde;
+        //        //derde.Previous = First;
+        //        //derde.Next = tweede;
+        //        //tweede.Previous = derde;
+        //        //tweede.Next = Last;
+        //        //Last.Previous = tweede;
+        //    }
+        //    return link.Previous;
+        //}
+
 
         public void BubbleSort()
         {
