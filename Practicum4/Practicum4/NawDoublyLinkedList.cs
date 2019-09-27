@@ -72,15 +72,46 @@ namespace Alg1.Practica.Practicum4
             }
             return null;
         }
-       
+
+
         public void BubbleSort()
         {
-            throw new System.NotImplementedException();
+            Boolean swap = false;
+            for (DoubleLink outer = Last; outer != First; outer = outer.Previous)
+            {
+                for (DoubleLink inner = First; inner != outer;)
+                {
+                    if (inner.Naw.CompareTo(inner.Next.Naw) > 0)
+                    {
+
+                        inner = SwapLinkWithNext(inner);
+
+                        if (inner == outer)
+                        {
+
+                            outer = outer.Next;
+
+                        }
+
+                        swap = true;
+
+                    }
+                    else
+                    {
+                        inner = inner.Next;
+                    }
+                
+                    if (!swap)
+                    {
+                        break;
+                    }
+                }
+            }
         }
 
         public BigO OrderOfBubbleSort()
         {
-            throw new System.NotImplementedException();
+            return BigO.N2;
         }
     }
 }

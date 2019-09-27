@@ -16,7 +16,7 @@ namespace Alg1.Practica.Practicum4.Test.Workshop
     [TestFixture]
     public class NawDoublyLinkedListTest
     {
-        private NawDoublyLinkedList lijst { get; set; }
+        public NawDoublyLinkedList lijst { get; set; }
 
         private NAW naw0 = new NAW("Paul", "De Remise", "Eindhoven");
         private NAW naw1 = new NAW("Martijn", "Dorpstraat", "Oss");

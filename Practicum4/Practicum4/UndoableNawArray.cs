@@ -43,17 +43,25 @@ namespace Alg1.Practica.Practicum4
 
         public void Undo()
         {
-            throw new System.NotImplementedException();
+            ReverseOperation(Current);
+            if (Current.Operation == Operation.Add)
+            {
+                AddOperation(Operation.Remove, Current.Naw);
+            }
+            if (Current.Operation == Operation.Remove)
+            {
+                AddOperation(Operation.Add, Current.Naw);
+            }
         }
 
         public void Redo()
         {
-            throw new System.NotImplementedException();
+            ApplyOperation(Current.Previous);
+            Current = Current.Previous;
         }
 
         private void AddOperation(Operation operation, NAW naw)
         {
-            //throw new System.NotImplementedException();
             UndoLink link = new UndoLink();
             link.Operation = operation;
             link.Naw = naw;
@@ -61,10 +69,15 @@ namespace Alg1.Practica.Practicum4
             if (First == null)
             {
                 First = link;
+                link.Previous = null;
+                Current = link;
+                Current.Next = null;
             }
             else
             {
-                
+                link.Next = First.Next;
+                First.Next = link;
+                link.Previous = First;
             }
 
         }
