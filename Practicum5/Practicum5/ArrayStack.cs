@@ -7,35 +7,90 @@ namespace Alg1.Practica.Practicum5
     {
         protected string[] values;
         protected int size;
+        protected int count;
 
         public ArrayStack(int capacity)
         {
-            throw new System.NotImplementedException();
+            if (capacity > 0)
+            {
+                values = new string[capacity];
+                size = capacity;
+            }
+            else
+            {
+                throw new ArgumentOutOfRangeException();
+            }
         }
 
         public void Push(string value)
         {
-            throw new System.NotImplementedException();
+            if (count != size)
+            {
+                if (size != 0)
+                {
+                    values[count] = value;
+                    count++;
+                }
+                else
+                {
+                    values[count] = value;
+                    count++;
+                }
+            }
+            else
+            {
+                throw new InvalidOperationException();
+            }
         }
 
         public string Pop()
         {
-            throw new System.NotImplementedException();
+            if (count != 0)
+            {
+                var temp = count - 1;
+                count--;
+                return values[temp];
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public string Peek()
         {
-            throw new System.NotImplementedException();
+            if (count != 0)
+            {
+                return values[count - 1];
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public bool IsEmpty()
         {
-            throw new System.NotImplementedException();
+            if (count == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public bool IsFull()
         {
-            throw new System.NotImplementedException();
+            if (size == count)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
