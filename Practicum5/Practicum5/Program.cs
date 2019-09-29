@@ -40,7 +40,10 @@ namespace Alg1.Practica.Practicum5
 
             //Console.ReadLine();
 
-
+            //[TEST XMLVALIDATOR]
+            XmlValidator x = new XmlValidator();
+            Console.WriteLine(x.Validate("<sarcasm> Het komt <em>vast</em> goed</sarcasm>"));
+            Console.ReadLine();
         }
     }
 }
