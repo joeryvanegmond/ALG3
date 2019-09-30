@@ -7,12 +7,8 @@ namespace Alg1.Practica.Practicum5
     public class XmlValidator
     {
         private int maxSize;
-        private char[] stackArray;
         private ArrayStack arrayStack;
         private int top;
-
-        //  TO DO: vergelijk de gepushede tags met elkaar uit de stack en return uiteindelijk true of false;
-
 
         public bool Validate(string xml)
         {
@@ -25,7 +21,7 @@ namespace Alg1.Practica.Practicum5
             {
                 switch (oneChar)
                 {
-                    case '<': // begint met het maken van een string (eerste tag)
+                    case '<': // begint met het maken van een string (tag)
                         tagComplete = false;
                         break;
 
@@ -35,6 +31,7 @@ namespace Alg1.Practica.Practicum5
                             tag += oneChar;
                             tagComplete = true;
                             arrayStack.Push(tag);
+                            top++;
                             tag = "";
                         }
                         break;
@@ -45,7 +42,17 @@ namespace Alg1.Practica.Practicum5
 
                 if (!tagComplete) { tag += oneChar; }
             }
-            return false;
+
+            for (int i = 0; i < top; i++)
+            {
+                String[] tags = new string[top];
+
+                tags[i] = arrayStack.Pop();
+                Console.WriteLine(tags[i]);
+            }
+
+        return false;
+            //  TO DO: vergelijk de gepushede tags met elkaar uit de stack en return uiteindelijk true of false;
         }
     }
 }
