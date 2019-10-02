@@ -1,12 +1,3 @@
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\Utils.dll
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\Utils.pdb
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.dll
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.pdb
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.xml
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.csproj.CopyComplete
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.dll
-C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.pdb
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum5\Utils\bin\Debug\Utils.dll
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum5\Utils\bin\Debug\Utils.pdb
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.dll
@@ -17,3 +8,11 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.pdb
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum5\Utils\obj\Debug\Utils.csproj.CopyComplete
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum5\Utils\obj\Debug\Utils.dll
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum5\Utils\obj\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum5\Utils\obj\Debug\Utils.pdb

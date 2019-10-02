@@ -42,7 +42,7 @@ namespace Alg1.Practica.Practicum5
 
             //[TEST XMLVALIDATOR]
             XmlValidator x = new XmlValidator();
-            Console.WriteLine(x.Validate("<sarcasm> Het komt <em>vast goed</sarcasm></em>"));
+            Console.WriteLine(x.Validate("<html><body>Hallo Wereld</html>"));
             Console.ReadLine();
 
 
