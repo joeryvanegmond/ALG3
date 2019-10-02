@@ -13,12 +13,36 @@ namespace Alg1.Practica.Practicum6
 
         public void Enqueue(NAW naw)
         {
-            throw new System.NotImplementedException();
+            if (_count != 0)
+            {
+
+                Last.Next = new Link();
+                Last = Last.Next;
+                Last.Naw = naw;
+                _count++;
+            }
+            else
+            {
+                First = new Link();
+                First.Naw = naw;
+                Last = First;
+                _count++;
+            }
         }
 
         public NAW Dequeue()
         {
-            throw new System.NotImplementedException();
+            if (_count != 0)
+            {
+                var temp = First;
+                First = First.Next;
+                _count--;
+                return temp.Naw;
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public int Count()
