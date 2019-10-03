@@ -36,34 +36,46 @@ namespace Alg1.Practica.Practicum6
 
         public void Enqueue(NAW naw)
         {
-            if (Rear == _size - 1)
+            if (_count != _size)
             {
-                Rear = -1;
-                _array[++Rear] = naw;
+                if (Rear == _size - 1)
+                {
+                    Rear = -1;
+                }
+                Rear++;
+                _array[Rear] = naw;
+                _count++;
             }
-
+            else
+            {
+                throw new NawQueueArrayOutOfBoundsException();
+            }
         }
 
         public NAW Dequeue()
         {
-            var temp = _array[Front++];
-            if (Front == _size)
-                Front = 0;
-            return temp;
+            if (_count != 0)
+            {
+                var temp = _array[Front];
+                _array[Front] = null;
+                Front++;
+                if (Front == _size)
+                {
+                    Front = 0;
+                }
+                
+                _count--;
+                return temp;
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public int Count()
         {
-            if (Rear >= Front) 
-            {
-                return Rear - Front + 1;
-            }
-            else
-            {
-                return (_size - Front) + (Rear + 1);
-            }
-                
-        
+            return _count;
         }
     }
 

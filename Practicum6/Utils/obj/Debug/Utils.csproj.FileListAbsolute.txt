@@ -7,3 +7,13 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Utils\obj\Debug\Utils.csprojA
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Utils\obj\Debug\Utils.csproj.CopyComplete
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Utils\obj\Debug\Utils.dll
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Utils\obj\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\obj\Debug\Utils.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\obj\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Utils\obj\Debug\Utils.pdb

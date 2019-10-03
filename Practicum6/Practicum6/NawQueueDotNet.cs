@@ -6,20 +6,25 @@ namespace Alg1.Practica.Practicum6
 {
     public class NawQueueDotNet
     {
+        private Queue qr = new Queue();
 
         public void Enqueue(NAW naw)
         {
-            throw new Exception();
+            qr.Enqueue(naw);
         }
 
         public NAW Dequeue()
         {
-            throw new Exception();
+            if (qr.Count != 0)
+            {
+                return (NAW)qr.Dequeue();
+            }
+            return null;
         }
 
         public int Count()
         {
-            throw new System.NotImplementedException();
+            return qr.Count;
         }
 
     }

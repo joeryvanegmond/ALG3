@@ -9,3 +9,15 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Practicum6\obj\x86\Debug\Prac
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.csproj.CopyComplete
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.exe
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\Practicum6.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\Practicum6.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum6\Practicum6\obj\x86\Debug\Practicum6.pdb
