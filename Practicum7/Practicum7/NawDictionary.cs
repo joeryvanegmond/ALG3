@@ -19,14 +19,39 @@ namespace Alg1.Practica.Practicum7
 
         protected int KeyToIndex(string key)
         {
-            throw new System.NotImplementedException();
+            // in het boek op blz 533 staat meer informatie
+
+            if (key != null)
+            {
+                if (logFiles.Length != 0)
+                {
+                    for (int i = 0; i < logFiles.Length; i++)
+                    {
+                        logFiles[i].Equals(key);
+                        return i;
+                    }
+                }
+            }
+            return 0;
         }
 
 
 
         public void Insert(string key, NAW value)
         {
-            throw new System.NotImplementedException();
+            if (key != null)
+            {
+                for (int i = 0; i < Size; i++)
+                {
+                    if (logFiles[i].Find(key) == null )
+                    {
+                        logFiles[i].Insert(key, value);
+                        return;
+                    }
+                }
+
+                
+            }
         }
 
         public NAW Find(string key)

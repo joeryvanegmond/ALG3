@@ -27,7 +27,7 @@ namespace Alg1.Practica.Practicum7
 
         public virtual NAW Find(string key)
         {
-            if (Head != null)
+            if (key != null && Head != null)
             {
                 bool isFound = false;
                 var i = Head;
@@ -38,7 +38,11 @@ namespace Alg1.Practica.Practicum7
 
                     if (i.Key.Equals(key))
                     {
-                        return i.Value;
+                        if (i.Value != null)
+                        {
+                            return i.Value;
+                        }
+                        return null;
                     }
 
                     if (i.Next == null)
@@ -54,7 +58,7 @@ namespace Alg1.Practica.Practicum7
 
         public virtual NAW Delete(string key)
         {
-            if (Head != null)
+            if (key != null && Head != null)
             {
                 bool isDeleted = false;
                 var i = Head;
@@ -63,20 +67,26 @@ namespace Alg1.Practica.Practicum7
 
                 if (Head.Key.Equals(key))
                 {
-                    Head = temp.Next;
-                    return temp.Value;
+                    if (Head.Value != null)
+                    {
+                        Head = temp.Next;
+                        return temp.Value;
+                    }
+                    return null;
                 }
 
                 while (!isDeleted)
                 {
                     if (i.Key.Equals(key))
                     {
-                        temp = i;
-                        i = null;
-                        beforeKey.Next = temp.Next;
-
-                        isDeleted = true;
-                        break;
+                        if (i.Value != null)
+                        {
+                            temp = i;
+                            i = null;
+                            beforeKey.Next = temp.Next;
+                            return temp.Value;
+                        }
+                        return null;
                     }
                     beforeKey = i;
                     i = i.Next;
