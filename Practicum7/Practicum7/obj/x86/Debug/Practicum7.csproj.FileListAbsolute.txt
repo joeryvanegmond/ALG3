@@ -1,0 +1,11 @@
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\obj\x86\Debug\Practicum7.csprojAssemblyReference.cache
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\Practicum7.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\Practicum7.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\obj\x86\Debug\Practicum7.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\obj\x86\Debug\Practicum7.exe
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7\obj\x86\Debug\Practicum7.pdb

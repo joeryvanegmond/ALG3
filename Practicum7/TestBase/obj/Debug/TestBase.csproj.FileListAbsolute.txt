@@ -1,0 +1,10 @@
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\TestBase.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\TestBase.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\nunit.framework.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\Utils.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\Utils.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\nunit.framework.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\nunit.framework.xml
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.csproj.CopyComplete
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.dll
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.pdb
