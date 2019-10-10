@@ -8,6 +8,7 @@ namespace Alg1.Practica.Practicum7
     {
         public int Size { get; }
         protected LogFile[] logFiles;
+        private int _count;
 
         public NawDictionary(int size)
         {
@@ -19,20 +20,17 @@ namespace Alg1.Practica.Practicum7
 
         protected int KeyToIndex(string key)
         {
-            // in het boek op blz 533 staat meer informatie
-
             if (key != null)
             {
-                if (logFiles.Length != 0)
-                {
-                    for (int i = 0; i < logFiles.Length; i++)
-                    {
-                        logFiles[i].Equals(key);
-                        return i;
-                    }
-                }
+                var hashValue = key.GetHashCode();
+                var compressedHashValue = hashValue % 10;
+                var index = Math.Abs(compressedHashValue);
+                return index;
             }
-            return 0;
+            else
+            {
+                throw new ArgumentNullException();
+            }
         }
 
 
@@ -41,27 +39,55 @@ namespace Alg1.Practica.Practicum7
         {
             if (key != null)
             {
-                for (int i = 0; i < Size; i++)
-                {
-                    if (logFiles[i].Find(key) == null )
-                    {
-                        logFiles[i].Insert(key, value);
-                        return;
-                    }
-                }
-
-                
+                var index = KeyToIndex(key);
+                logFiles[index].Insert(key, value);
+                _count++;
+            }
+            else
+            {
+                throw new ArgumentNullException();
             }
         }
 
         public NAW Find(string key)
         {
-            throw new System.NotImplementedException();
+            if (key != null)
+            {
+                var index = KeyToIndex(key);
+
+                if (logFiles[index].Find(key) != null && logFiles[index].Find(key).Equals(""))
+                {
+                    return logFiles[index].Find(key);
+                }
+
+                return null;
+            }
+            else
+            {
+                throw new ArgumentNullException();
+            }
         }
 
         public NAW Delete(string key)
         {
-            throw new System.NotImplementedException();
+            if (key != null)
+            {
+                var index = KeyToIndex(key);
+                var temp = logFiles[index].Find(key);
+
+                if (temp == null)
+                {
+                    logFiles[index].Delete(key);
+                    _count--;
+                    return null;
+                }
+                _count--;
+                return temp;
+            }
+            else
+            {
+                throw new ArgumentNullException();
+            }
         }
 
 
@@ -69,7 +95,7 @@ namespace Alg1.Practica.Practicum7
         {
             get
             {
-            throw new System.NotImplementedException();
+                return _count;
             }
         }
 
@@ -77,7 +103,7 @@ namespace Alg1.Practica.Practicum7
         {
             get
             {
-            throw new System.NotImplementedException();
+                return _count / Size; 
             }
         }
     }

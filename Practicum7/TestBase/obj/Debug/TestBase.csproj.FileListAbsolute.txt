@@ -8,3 +8,14 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\bin\Debug\nunit.fram
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.csproj.CopyComplete
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.dll
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\TestBase.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\TestBase.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.pdb

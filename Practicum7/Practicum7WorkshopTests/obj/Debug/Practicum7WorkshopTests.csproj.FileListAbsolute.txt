@@ -13,3 +13,18 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7WorkshopTests\obj\D
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.csproj.CopyComplete
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.dll
 C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\Practicum7WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\Practicum7WorkshopTests.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\Practicum7.exe
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\TestBase.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\Utils.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\TestBase.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\Practicum7.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.csproj.CopyComplete
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.dll
+\\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\Practicum7WorkshopTests\obj\Debug\Practicum7WorkshopTests.pdb
