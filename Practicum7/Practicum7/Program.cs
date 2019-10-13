@@ -14,13 +14,16 @@ namespace Alg1.Practica.Practicum7
             nd.Insert("B", new Utils.Models.NAW("B", "B", "B"));
             nd.Insert("C", new Utils.Models.NAW("1", "1", "1"));
             nd.Insert("D", new Utils.Models.NAW("1", "1", "1"));
-            nd.Insert("E", new Utils.Models.NAW("1", "1", "1"));
-            nd.Insert("F", new Utils.Models.NAW("1", "1", "1"));
-            nd.Insert("G", new Utils.Models.NAW("1", "1", "1"));
-            nd.Insert("H", new Utils.Models.NAW("1", "1", "1"));
-            nd.Insert("I", new Utils.Models.NAW("1", "1", "1"));
+            //nd.Insert("E", new Utils.Models.NAW("1", "1", "1"));
+            //nd.Insert("F", new Utils.Models.NAW("1", "1", "1"));
+            //nd.Insert("G", new Utils.Models.NAW("1", "1", "1"));
+            //nd.Insert("H", new Utils.Models.NAW("1", "1", "1"));
+            //nd.Insert("I", new Utils.Models.NAW("1", "1", "1"));
             //nd.Insert("J", new Utils.Models.NAW("1", "1", "1"));
             //Console.WriteLine(nd.Find("B"));
+            nd.Delete("A");
+            Console.WriteLine(nd.Count);
+            Console.ReadLine();
             //Console.WriteLine(nd.Count);
 
         }

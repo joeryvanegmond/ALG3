@@ -55,7 +55,7 @@ namespace Alg1.Practica.Practicum7
             {
                 var index = KeyToIndex(key);
 
-                if (logFiles[index].Find(key) != null && logFiles[index].Find(key).Equals(""))
+                if (logFiles[index].Find(key) != null)
                 {
                     return logFiles[index].Find(key);
                 }
@@ -77,10 +77,9 @@ namespace Alg1.Practica.Practicum7
 
                 if (temp == null)
                 {
-                    logFiles[index].Delete(key);
-                    _count--;
                     return null;
                 }
+                logFiles[index].Delete(key);
                 _count--;
                 return temp;
             }
