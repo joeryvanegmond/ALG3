@@ -19,3 +19,4 @@ C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.p
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.csproj.CopyComplete
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.dll
 \\Mac\Home\Documents\Avans\leerjaar 2\BLOK 5\ALGORITME\github\ALG3\Practicum7\TestBase\obj\Debug\TestBase.pdb
+C:\Users\joery\Documents\Avans\ALG\ALG3\Practicum7\TestBase\obj\Debug\TestBase.csprojAssemblyReference.cache

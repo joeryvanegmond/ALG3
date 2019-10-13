@@ -55,7 +55,7 @@ namespace Alg1.Practica.Practicum7
             {
                 var index = KeyToIndex(key);
 
-                if (logFiles[index].Find(key) != null)
+                if (logFiles[index].Find(key) !=  null)
                 {
                     return logFiles[index].Find(key);
                 }
